@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mario1918
 - 👀 I’m interested in developing and management
-- 🌱 I’m currently learning Software Testing and Devops
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Testing
+<!-- - 💞️ I’m looking to collaborate on ... -->
 <!--- 📫 How to reach me ... --->
 
 <!---
