@@ -17,7 +17,7 @@ Currently focused on:
 - **Languages:** Python, JavaScript, Java
 - **API Testing:** Postman, REST APIs
 - **Databases:** Oracle SQL, MySQL
-- **AI/LLM Tools:** LangSmith, LangFuse, Amazon Bedrock
+- **AI/LLM Tools:** LangSmith, LangFuse, Amazon Bedrock, LangChain, LangGraph
 - **DevOps/MLOps:** GitHub Actions, Jenikins, AWS App Runner, Docker, AWS SageMaker
 - **Methodologies:** Agile, eSAFE, Jira, CI/CD
 
