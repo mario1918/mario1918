@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mario Ashraf (@mario1918)
 
-## 🚀 Software Quality Engineer II | AI QA Engineer | Automation & MLOps Enthusiast
+## 🚀 Software Quality Engineer | AI QA Engineer | Automation & MLOps Enthusiast
 
 Results-driven Software Quality Engineer with 3+ years of experience in software testing, automation, AI systems validation, and quality engineering for SaaS platforms.
 
